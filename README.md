@@ -8,6 +8,7 @@ Based on the images above, it's evident that the keyword with the highest number
 
 
 **Observations about the Data:**
+
 The dataset comprises five columns, each offering valuable insights into keyword performance and search behavior:
 
 **keyword_id:** This column serves as a unique identifier for each keyword. It is notable that multiple entries exist for each keyword, implying that the dataset captures the keyword's performance across various parameters and time periods. This identifier facilitates the tracking and analysis of individual keywords' performance trends.
@@ -23,6 +24,7 @@ The dataset comprises five columns, each offering valuable insights into keyword
 * *By comprehensively analyzing these columns, we can derive actionable insights into keyword performance trends, user behavior patterns, and search engine dynamics, ultimately informing strategic decisions and optimizing digital marketing efforts.* *
 
 **What you attempted and why**
+
 My primary objective in addressing each question is to thoroughly comprehend the dataset provided. Upon examination, it becomes evident that the dataset pertains to the week of July 2022. Notably, each keyword_id appears multiple times in the dataset, each instance associated with distinct keyword_rank, date, searches, and search_engine values.
 
 To gain insights into the data relationships, I utilized various visualization techniques. For instance, employing a scatter plot allowed me to explore the relationship between searches and search_engine. Through this analysis, I identified the search_engine with the highest search volume, which corresponds to index 11.
