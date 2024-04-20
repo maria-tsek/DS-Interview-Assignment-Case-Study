@@ -11,7 +11,9 @@ Based on the images above, it's evident that the keyword with the highest number
 The dataset comprises five columns, each offering valuable insights into keyword performance and search behavior:
 
 **keyword_id:** This column serves as a unique identifier for each keyword. It is notable that multiple entries exist for each keyword, implying that the dataset captures the keyword's performance across various parameters and time periods. This identifier facilitates the tracking and analysis of individual keywords' performance trends.
+
 **keyword_rank:** The keyword_rank column signifies the relative position of each keyword in terms of its popularity or relevance. Keywords are likely ranked based on factors such as search volume, click-through rate, or relevance to a particular topic. 
+
 **date:** The date column denotes the specific date associated with each data entry, ranging from 7/8/2022 to 7/14/2022. This temporal dimension allows for the tracking of keyword performance variations over time. Analysis of keyword trends across different dates can reveal patterns, seasonality, or sudden shifts in user behavior, aiding in strategic decision-making.
 **searches:** The searches column quantifies the number of searches conducted for each keyword on a given date. It provides valuable quantitative data regarding the popularity and demand for specific keywords over time. By analyzing search volumes, we can identify trends, fluctuations, or spikes in user interest, offering insights into keyword performance dynamics.
 **search_engine:** This column categorizes the search engine where the searches were executed, such as Google, Bing, or Yahoo. Distinguishing between searches performed on different platforms enables us to discern user preferences and behaviors across various search engines. Understanding the distribution of searches across different platforms facilitates targeted optimization strategies and enhances overall search engine visibility.
